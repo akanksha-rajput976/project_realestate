@@ -8,8 +8,5 @@ Built with React, Node.js, Express, and MongoDB.
 - Advanced property search with filters
 - Responsive UI built with React.js
 
-## Setup
-1. Clone this repository
-2. Run `npm install` to install dependencies
-3. Run `npm start` to start the project
+
 
